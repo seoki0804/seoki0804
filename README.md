@@ -17,5 +17,6 @@ LNG 운반선 항해사(5년 4개월)와 해상 소프트웨어 회사 PM(1년 2
 **비공개 저장소** (요청하시면 보여 드립니다)
 
 - Nereus VMS: 선박과 육상이 함께 쓰는 선박관리 시스템 (React · FastAPI · PostgreSQL)
+- Maritime MoE: 해사 규정 질문에 근거와 함께 답하는 AI 어시스턴트 (RAG · 도메인 라우팅). 연구 구조를 정리한 [지식그래프](https://github.com/seoki0804/maritime-moe-knowledge-graph)는 공개
 - FiberCheck: 조선소 동시작업 충돌을 착수 전에 찾는 작업허가 플랫폼 (2026 K-조선 해커톤)
 - My Animal 3D: 사진 한 장으로 반려견 3D 애니메이션을 만드는 서비스 (4인 팀, 프론트엔드·모델 비교 실험)
